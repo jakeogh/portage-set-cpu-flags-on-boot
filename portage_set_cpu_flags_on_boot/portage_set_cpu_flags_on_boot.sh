@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-echo '\n' '\x00'
-exit 1
 #!/bin/sh
 
 # https://wiki.gentoo.org/wiki/CPU_FLAGS_*
